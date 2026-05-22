@@ -1,4 +1,4 @@
-# 📸 AI-Powered Image Search Engine 🚀
+# 📸 AI-Powered Image Database Search Engine (Simple Demo) 🚀
 
 Hello there! 👋 Welcome to my personal project! ❤️ Welcome to this smart image database search engine. I'm so excited to share this with you! Check out how we can find images using just plain natural language! 🌟
 
